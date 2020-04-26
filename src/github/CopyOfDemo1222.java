@@ -1,6 +1,6 @@
 package github;
 
-public class CopyOfDemo1233 {
+public class CopyOfDemo1222 {
 
 	public static void main(String[] args) {
 		
